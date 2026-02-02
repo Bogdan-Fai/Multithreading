@@ -1,0 +1,14 @@
+C:\Users\Bogda\Desktop\,\коды\8лабаООП\MultithreadingDemo\bin\Debug\net7.0\MultithreadingDemo.exe
+C:\Users\Bogda\Desktop\,\коды\8лабаООП\MultithreadingDemo\bin\Debug\net7.0\MultithreadingDemo.deps.json
+C:\Users\Bogda\Desktop\,\коды\8лабаООП\MultithreadingDemo\bin\Debug\net7.0\MultithreadingDemo.runtimeconfig.json
+C:\Users\Bogda\Desktop\,\коды\8лабаООП\MultithreadingDemo\bin\Debug\net7.0\MultithreadingDemo.dll
+C:\Users\Bogda\Desktop\,\коды\8лабаООП\MultithreadingDemo\bin\Debug\net7.0\MultithreadingDemo.pdb
+C:\Users\Bogda\Desktop\,\коды\8лабаООП\MultithreadingDemo\obj\Debug\net7.0\MultithreadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogda\Desktop\,\коды\8лабаООП\MultithreadingDemo\obj\Debug\net7.0\MultithreadingDemo.AssemblyInfoInputs.cache
+C:\Users\Bogda\Desktop\,\коды\8лабаООП\MultithreadingDemo\obj\Debug\net7.0\MultithreadingDemo.AssemblyInfo.cs
+C:\Users\Bogda\Desktop\,\коды\8лабаООП\MultithreadingDemo\obj\Debug\net7.0\MultithreadingDemo.csproj.CoreCompileInputs.cache
+C:\Users\Bogda\Desktop\,\коды\8лабаООП\MultithreadingDemo\obj\Debug\net7.0\MultithreadingDemo.dll
+C:\Users\Bogda\Desktop\,\коды\8лабаООП\MultithreadingDemo\obj\Debug\net7.0\refint\MultithreadingDemo.dll
+C:\Users\Bogda\Desktop\,\коды\8лабаООП\MultithreadingDemo\obj\Debug\net7.0\MultithreadingDemo.pdb
+C:\Users\Bogda\Desktop\,\коды\8лабаООП\MultithreadingDemo\obj\Debug\net7.0\MultithreadingDemo.genruntimeconfig.cache
+C:\Users\Bogda\Desktop\,\коды\8лабаООП\MultithreadingDemo\obj\Debug\net7.0\ref\MultithreadingDemo.dll
